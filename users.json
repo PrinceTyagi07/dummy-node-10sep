@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "first_name": "Gaile",
+        "last_name": "Underhill",
+        "email": "gunderhill0@epa.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Tomaso",
+        "last_name": "Naire",
+        "email": "tnaire1@uol.com.br",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Win",
+        "last_name": "Licence",
+        "email": "wlicence2@cam.ac.uk",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 4,
+        "first_name": "Ellerey",
+        "last_name": "Kneller",
+        "email": "ekneller3@macromedia.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Amandi",
+        "last_name": "Westwick",
+        "email": "awestwick4@amazon.co.uk",
+        "gender": "Bigender"
+    },
+    {
+        "id": 6,
+        "first_name": "Buddy",
+        "last_name": "Lodemann",
+        "email": "blodemann5@aol.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Petronella",
+        "last_name": "Umpleby",
+        "email": "pumpleby6@biglobe.ne.jp",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Leandra",
+        "last_name": "Grouvel",
+        "email": "lgrouvel7@imdb.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Frannie",
+        "last_name": "Overstone",
+        "email": "foverstone8@woothemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Avis",
+        "last_name": "Whibley",
+        "email": "awhibley9@ezinearticles.com",
+        "gender": "Female"
+    },
+    {
+        "id": "567",
+        "name": "deepansh tyagi  ",
+        "college": "rd",
+        "gender": "male"
+    }
+]
